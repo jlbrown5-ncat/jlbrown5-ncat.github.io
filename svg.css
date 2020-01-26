@@ -1,0 +1,79 @@
+<style>
+	body {
+		background:gray;
+		margin: 0;
+		font-family: Calibri;
+	}
+	.header {
+		background:#1f2a70;
+		height: 100px;
+	}
+	.content {
+		width: 75%;
+		background: white;
+		margin: auto;
+		padding: 10px
+	}
+	.img-div {
+		display:inline-block;
+		vertical-align: top;
+		width: 25%;
+	}
+	.text-div {
+		padding-top: 20px;
+		display: inline-block;
+		width: 70%;
+	}
+	.links {
+		width: 75%;
+		margin:auto;
+		background: #cfb80e;
+		padding: 10px;
+		margin-top: 10px;
+		margin-bottom: 10px;
+		text-align: center;
+	}
+	.links ul {
+		padding: 0;
+	}
+	.links ul li {
+		display: inline;
+		padding-right: 60px;
+	}
+	a:link {
+		text-decoration: none;
+		color:black;
+	}
+	a:visited {
+		text-decoration: none;
+		color:black;
+	}
+	a:hover {
+		text-decoration: none;
+	}
+	a:active {
+		text-decoration: none;
+	}
+	.iphone-base {
+		fill:black;
+	}
+	.iphone-screen {
+		fill:white;
+	}
+	.iphone-camera {
+		fill:gray;
+	}
+	.head-text {
+		font-size: 20pt;
+	}
+	line {
+		stroke:gray;
+		stroke-width: 1;
+	}
+	.contact-circle {
+		fill:gray;
+	}
+	.contact-initial {
+		fill:white;
+	}
+</style>
